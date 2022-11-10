@@ -1,6 +1,9 @@
 Roman Soroka => rsoroka@indra.es 
 Santiago Pelaez - sanpelap@gmail.com hola
-Sergio Carrasco --> Mi modificación
+Sergio Carrasco --> Mi modificaciï¿½n
 
 
-Otra modificación
+Otra modificaciï¿½n
+
+
+#Caso 2 10/11/2022
