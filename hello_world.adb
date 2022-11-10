@@ -1,6 +1,5 @@
-
 --HELLO WORLD
-
+--Authors: Sergio, Santiago, Roman
 with Ada.Text_IO;
 use Ada.Text_IO;
 
